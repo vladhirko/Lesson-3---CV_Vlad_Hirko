@@ -7,6 +7,7 @@
 }
 .name{
     font-style: oblique;
+    font-size: x-large;
 }
 .headers{
     text-transform: uppercase ;
@@ -40,4 +41,15 @@
 }
 .background_text{
     background-color: rgb(183, 241, 237);
+}
+.picture_float{
+    float: right;
+    width: 100px;
+    height: 100px;
+}
+.table_parameters{
+    display: block;
+}
+.position_full{
+    width: 100%;
 }
